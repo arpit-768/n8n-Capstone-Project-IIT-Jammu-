@@ -222,4 +222,4 @@ A walkthrough of the project is available here:
 
 ## Author
 
-Developed by **Akshit Chib** for the **Summer School '26 – n8n Capstone Project**.
+Developed by **Arpit Sharma** for the **Summer School '26 – n8n Capstone Project**.
